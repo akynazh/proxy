@@ -1,4 +1,4 @@
-# v2ray
+# proxy
 
 To see the world.
 
